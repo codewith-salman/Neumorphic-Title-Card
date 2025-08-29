@@ -20,7 +20,8 @@ This design is perfect for profile sections, user dashboards, portfolio websites
 ### Features:
 - Smooth **neumorphic design** 🎨  
 - Fully responsive and mobile-friendly 📱  
-- Clean and reusable code  
+- Clean and reusable code
+- Best for Implementing in the Website for profile section
 - Perfect for personal profiles and portfolio websites  
 
 ---
